@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "NBA2K19.exe",
+      "size": 67142248,
+      "sha256": "5154576e29e0351638f4ce52a1280fac99d4cd318041564ada47e54a7a788a3e",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/NBA2K19.exe"
+    },
+    {
+      "path": "NBA2K19.cdx",
+      "size": 67142248,
+      "sha256": "ab921268759e1f4a11b45cca022f338b739ab297f3b2cf09d2d22fdb6367c29c",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/NBA2K19.cdx"
+    },
+    {
+      "path": "codex64.dll",
+      "size": 133408,
+      "sha256": "056156ab1da26259bc6075e18db532dc1ca6477e3a64342c2d172930c4d45b71",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/codex64.dll"
+    },
+    {
+      "path": "steam_api64.cdx",
+      "size": 250656,
+      "sha256": "b8246e1a629b945fe526b24c3e4f002c4f6eb86aa1b5ed9744399f22a0d2ca9f",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/steam_api64.cdx"
+    },
+    {
+      "path": "steam_api64.dll",
+      "size": 250656,
+      "sha256": "65dda7796c0720fe16ddc1e30f3b74552b06afc1b4e8d8530b12e723d709bec9",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/steam_api64.dll"
+    },
+    {
+      "path": "steamclient64.dll",
+      "size": 301856,
+      "sha256": "7448299350c701d826f8e8b7d29c21c6c8b3b589362d64a56fe5cc824d9393cf",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/steamclient64.dll"
+    },
+    {
+      "path": "GameOverlayRenderer64.dll",
+      "size": 1407776,
+      "sha256": "7ea513b874a6a761b600f950ae0d8480a5d1011db63527bf03752c4efbe2f73f",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/GameOverlayRenderer64.dll"
+    },
+    {
+      "path": "steam_emu.ini",
+      "size": 899,
+      "sha256": "42cd24be3d580194eecb9d3ea98e65c036304138bdad23450bfa5a9ec16f88e5",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/steam_emu.ini"
+    },
+    {
+      "path": "data/steam/codex64.dll",
+      "size": 133408,
+      "sha256": "056156ab1da26259bc6075e18db532dc1ca6477e3a64342c2d172930c4d45b71",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-codex64.dll"
+    },
+    {
+      "path": "data/steam/steam_api64.cdx",
+      "size": 250656,
+      "sha256": "b8246e1a629b945fe526b24c3e4f002c4f6eb86aa1b5ed9744399f22a0d2ca9f",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-steam_api64.cdx"
+    },
+    {
+      "path": "data/steam/steam_api64.dll",
+      "size": 250656,
+      "sha256": "65dda7796c0720fe16ddc1e30f3b74552b06afc1b4e8d8530b12e723d709bec9",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-steam_api64.dll"
+    },
+    {
+      "path": "data/steam/steamclient64.dll",
+      "size": 301856,
+      "sha256": "7448299350c701d826f8e8b7d29c21c6c8b3b589362d64a56fe5cc824d9393cf",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-steamclient64.dll"
+    },
+    {
+      "path": "data/steam/GameOverlayRenderer64.dll",
+      "size": 1407776,
+      "sha256": "7ea513b874a6a761b600f950ae0d8480a5d1011db63527bf03752c4efbe2f73f",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-GameOverlayRenderer64.dll"
+    },
+    {
+      "path": "data/steam/steam_emu.ini",
+      "size": 899,
+      "sha256": "42cd24be3d580194eecb9d3ea98e65c036304138bdad23450bfa5a9ec16f88e5",
+      "url": "https://github.com/adxtti/game-repair/releases/download/v1.0.0/data-steam-steam_emu.ini"
+    }
+  ]
+}
